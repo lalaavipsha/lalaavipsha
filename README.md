@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lalaavipsha
 - 👀 I’m interested in exploring new technology, hardcore geeky, an avid learner.
-- 🌱 I’m currently learning web development, also a part of the aws educate program.
+- 🌱 I’m currently learning Devops, also a part of the aws educate program.
 - 💞️ I’m looking to collaborate on any interseting projects related to ml or ai, also would love to contribute in open source.
 - 📫 How to reach me - mail id-lalaavipsha@gmail.com
 
