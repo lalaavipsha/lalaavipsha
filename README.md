@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lalaavipsha
 - 👀 I’m interested in exploring new technology, hardcore geeky, an avid learner.
-- 🌱 I’m currently learning Devops, also a part of the aws educate program.
-- 💞️ I’m looking to collaborate on any interseting projects related to Devops, also would love to contribute in open source.
+- 🌱 I’m currently learning FullStack, also a part of the aws educate program.
+- 💞️ I’m looking to collaborate on any interseting projects related to FullStack, also would love to contribute in open source.
 - 📫 How to reach me - mail id-lalaavipsha@gmail.com
 
 <!---
